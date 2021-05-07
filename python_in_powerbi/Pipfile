@@ -10,6 +10,7 @@ matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 jupyter = "*"
+pickle = "*"
 
 [dev-packages]
 "pep8" = "*"
